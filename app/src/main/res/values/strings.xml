@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">ChessGames</string>
+    <string name="pawn_piece_image">pawn piece image</string>
+    <string name="am_player_turn">Player turn:</string>
+    <string name="ma_playerturn_white">White</string>
+    <string name="ma_playerturn_black">Black</string>
+    <string name="piece_select_explained">Iv for selecting a piece when pawn gets to the end</string>
+    <string name="rookName">Rook</string>
+    <string name="queenName">Queen</string>
+    <string name="pawnName">Pawn</string>
+    <string name="knightName">Knight</string>
+    <string name="kingName">King</string>
+    <string name="bishopName">Bishop</string>
+</resources>
